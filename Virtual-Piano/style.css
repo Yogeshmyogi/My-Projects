@@ -1,1 +1,24 @@
+body {
+    text-align: center;
+    background: #121212;
+    color: white;
+    font-family: Arial;
+}
 
+.piano {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.key {
+    width: 80px;
+    height: 250px;
+    background: white;
+    color: black;
+    border: 1px solid #000;
+    margin: 2px;
+    line-height: 250px;
+    font-size: 24px;
+    cursor: pointer;
+}
