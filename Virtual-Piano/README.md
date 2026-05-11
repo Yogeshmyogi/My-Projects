@@ -1,4 +1,4 @@
-# Virtual Piano 🎹
+# Virtual Piano
 
 A browser-based piano using JavaScript and audio events.
 
